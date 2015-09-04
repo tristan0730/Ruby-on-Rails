@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yiyangtan/Desktop/AndroidDevelopment/MyeBay/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/yiyangtan/Desktop/AndroidDevelopment/MyeBay/app/build/intermediates/pre-dexed/debug/classes-0e62cbe5b877502a1dd42ff118a866da4767b0d0.jar" />
+    </item>
+    <item
+        jar="/Users/yiyangtan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/yiyangtan/Desktop/AndroidDevelopment/MyeBay/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-4fe077d3c9d44efa9bc08103456df9b36f3c750d.jar" />
+    </item>
+    <item
+        jar="/Users/yiyangtan/Desktop/AndroidDevelopment/MyeBay/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/yiyangtan/Desktop/AndroidDevelopment/MyeBay/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-2071ecc1f0ba50161f5b25e98b39ba9e98fbecc1.jar" />
+    </item>
+    <item
+        jar="/Users/yiyangtan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/yiyangtan/Desktop/AndroidDevelopment/MyeBay/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-4266f670b77209d467bff67514bba7de701aa93a.jar" />
+    </item>
+    <item
+        jar="/Users/yiyangtan/Desktop/AndroidDevelopment/MyeBay/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/yiyangtan/Desktop/AndroidDevelopment/MyeBay/app/build/intermediates/pre-dexed/debug/classes-f9fbc846f68d1a9f9fa63a88a0a6bd972aebd78a.jar" />
+    </item>
+    <item
+        jar="/Users/yiyangtan/Desktop/AndroidDevelopment/MyeBay/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="/Users/yiyangtan/Desktop/AndroidDevelopment/MyeBay/app/build/intermediates/pre-dexed/debug/classes-e65291d9131756438ee943e5d21c38429bf758be.jar" />
+    </item>
+
+</items>
