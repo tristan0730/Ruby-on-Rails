@@ -60,7 +60,7 @@ public class StringToLong {
         return nonNeg?1:-1;
     }
     public static void main(String[]args){
-        StringToLong2 stl = new StringToLong2();
+        StringToLong stl = new StringToLong();
         long result;
         String []test = new String[12];
         String []des = new String[12];
