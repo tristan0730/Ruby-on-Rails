@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Ruby on Rails Tutorial Sample App | <%= @title %></title>
+	<!--@title refers to according variable in application_controller.rb, while title refers to application_helper.rb-->
+	<title><%= title %></title>
 	<%= csrf_meta_tag %> 
+	<%= stylesheet_link_tag 'screen', :media => 'screen' %>
+	<%= stylesheet_link_tag 'print', :media => 'print' %>
 </head>
 <body>
 	<%= yield %>
